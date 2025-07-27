@@ -24,7 +24,13 @@
 * HTML5 / CSS3
 * Bootstrap
 * JavaScript
-* 
+
+##### System Design
+
+
+
+<img width="999" height="686" alt="image" src="https://github.com/user-attachments/assets/51527d2a-f6a7-488c-9a19-f0772038cd38" />
+
 
 
 
